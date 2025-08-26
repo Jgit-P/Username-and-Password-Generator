@@ -3,7 +3,7 @@
 A Python script that generates random usernames and secure passwords, then saves them to a file. 
 
     ##Features:
--Generates a random usernames based on first and last name inputs
+-Generates a random username based on first and last name inputs
 -Creates strong, random passwords of a customizable length(mine is set to 10. For the Seurity+ standard of a password 9-12)
 -Saves generated credentials to a text file(credentials.txt)
 -Option to save CSV format for Excel compatability
@@ -22,8 +22,8 @@ Python 3.x
        -select terminal
 3.In Github: select Username-and-Password-Generator, click on code and copy the HTTPS link
 4.In VSC terminal type git clone then paste the HTTPS link following the git clone
-5.After cloning the repo, click file, thenopen folder, find the folder with Username-and-Password-Generator, select it
-6.Once you seel all of the code click the play icon at the top right of the viewing box
+5.After cloning the repo, click file, then open folder, find the folder with Username-and-Password-Generator, select it
+6.Once you see all of the code click the play icon at the top right of the viewing box
 7.In the terminal, it will prompt you to enter first name and then the last name
 8.It will prompt you with the options 1, 2, and 3.
 
