@@ -58,7 +58,7 @@ elif choice == "2":
         file.write(f"Password: {password}\n")
 
 elif choice == "3":
-    username = generate_password(first, last)
+    username = generate_username(first, last)
     password + generate_password(length)
     print(f"Generated username: {username}")
     print(f"Generated password: {password}")
@@ -67,4 +67,5 @@ elif choice == "3":
 
 else:
     print("\nInvalid choice. Please select 1, 2, or 3.")
+
     
